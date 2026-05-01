@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/grandouagency-cloud/about-us/main/assets/hero.jpg" alt="GRANDOU Agency" width="100%" style="border-radius: 20px"/>
+<img src="https://raw.githubusercontent.com/grandouagency-cloud/grandouagency-cloud/main/assets/hero.jpg" alt="GRANDOU Agency" width="400px" height="100" style="border-radius: 20px"/>
 
 <br/><br/>
 
